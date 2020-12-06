@@ -17,7 +17,5 @@ Dataset: Due to confidentiality reasons data is not publicly accessible.
 
 Visualization System: The proposed visualization system (InsCRMVis) has 3 main steps as follows:
 
-Data Interpretation
-Query Analyzer
-Visualization Generation
+1. Data Interpretation 2. Query Analyzer  3. Visualization Generation
 
