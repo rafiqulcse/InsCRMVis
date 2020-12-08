@@ -2,8 +2,6 @@ The following code is used to conduct the experiment for paper: "Natural Languag
 
 Core references:
 
-Abghari, S., Boeva, V., Lavesson, N., Grahn, H., Gustafsson, J., & Shaikh, J. "Outlier detection for video session data using sequential pattern mining". 
-
 1. ISLAM M. R., LIU S., BIDDLE R., RAZZAK I., WANG X., TILOCCA P., XU G.: Discovering dynamic adverse behavior of policyholders in the life insurance industry. Technological Forecasting and Social Change (2020).
 
 2. NARECHANIA A., SRINIVASAN A., STASKO J.: Nl4dv: A toolkit for generating analytic specifications for data visualization from natural language queries. arXiv preprint arXiv:2008.10723 (2020).
