@@ -17,3 +17,7 @@ Visualization System: The proposed visualization system (InsCRMVis) has 3 main s
 
 1. Data Interpretation 2. Query Analyzer  3. Visualization Generation
 
+
+Contact: 
+
+If you have any comments or encounter any issues running the system, please contact with me @ rafiqulislam.cse24@gmail.com
